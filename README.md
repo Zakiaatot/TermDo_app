@@ -30,6 +30,7 @@ TermDo 是一个安卓终端模拟器, 类似于termux,termare
 
 - [termux](https://github.com/termux)
 - [termare](https://github.com/termare)
+- [proot](https://github.com/proot-me/proot)
 
 
 
